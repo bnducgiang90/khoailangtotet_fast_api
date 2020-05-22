@@ -1,2 +1,2 @@
-# khoailangtotet_flask_api
-API  MVC using Flask Framework
+# khoailangtotet_flask_web
+web MVC sử dụng Flask Framework
