@@ -4,7 +4,7 @@ sys.path.append('.')  # đoạn này để gọi import root folder của projec
 from flask import Flask
 from app.controllers import main, errors
 from app.controllers.Users import usercontroller
-
+import connexion
 # import extensions
 # import config
 
