@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca153c28-c5e1-43dd-96fd-ea16a8736589" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runapp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/runapi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../khoailangtotet_flask_web" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\10.Python\git_svn\Flask\khoailangtotet_flask_api\app" />
       <recent name="E:\10.Python\git_svn\Flask\khoailangtotet_flask_api" />
     </key>
   </component>
@@ -57,7 +60,7 @@
       <workItem from="1590130991148" duration="224000" />
       <workItem from="1590131633153" duration="121000" />
       <workItem from="1590308774300" duration="3779000" />
-      <workItem from="1590314381602" duration="1102000" />
+      <workItem from="1590314381602" duration="2322000" />
     </task>
     <task id="LOCAL-00001" summary="cm">
       <created>1590315238138</created>
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590315382030</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cm">
+      <created>1590315491287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590315491287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,22 +95,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="cm" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="24" key="CommitChangelistDialog2" timestamp="1590315381399">
+    <state x="421" y="24" key="CommitChangelistDialog2" timestamp="1590315490876">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="421" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1590315381399" />
-    <state x="579" y="171" key="FileChooserDialogImpl" timestamp="1590312521301">
+    <state x="421" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1590315490876" />
+    <state x="579" y="171" key="FileChooserDialogImpl" timestamp="1590315532764">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="579" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1590312521301" />
+    <state x="579" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1590315532764" />
     <state x="301" y="72" key="SettingsEditor" timestamp="1590308866609">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590308866609" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1590315388725">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1590315496253">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1590315388725" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1590315496253" />
     <state x="495" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1590131786809">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
